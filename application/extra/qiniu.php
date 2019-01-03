@@ -8,6 +8,6 @@
 return [
     'ak' => 'wFWpIBDw0f2u5yrOwYPvM4A-V0TnEpQUaee48VgR',
     'sk' => '48GncCwgXiDz4LsafN_WwP3EwyU3kHavYN8UF4vw',
-    'bucket' => 'kuang',
-    'image_url' => 'http://pjkqcv6uv.bkt.clouddn.com',
+    'bucket' => 'sanyue',
+    'image_url' => 'http://pkqw2e2bm.bkt.clouddn.com',
 ];
